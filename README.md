@@ -1,4 +1,5 @@
-# Github: FrancoQuiroga
+# Quiroga Abraham, Franco Enzo
+Github: FrancoQuiroga
 
 # What does this do?
 ## The is_palindrome file (The function has the same name), detects if a string is a palindrome or not
